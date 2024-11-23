@@ -1,0 +1,1 @@
+I have a renpho weighing scale that allows me to export my measurements as a csv. I've then made my own chart of my weight using the data.
